@@ -10,6 +10,10 @@ extra:
 
 nav:
   - Home: index.md
+  - Features: features.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Terminology: terminology.md
 
 theme:
   name: material  # Doc: https://squidfunk.github.io/mkdocs-material/
